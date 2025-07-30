@@ -1,5 +1,5 @@
 # Hi there.!👋🏻
-* I'm ***Dev***, A Frontend Developer (Full stack in future, of course).
+* I'm ***Dev***, A **Full Stack** Developer.
 * Currently learning **Node** & **Express.Js**.
 * Love to bring ideas to life in form of Web Apps!
 * Outside of Code, you'll find me watching anime or hitting the gym 💪🏻.
