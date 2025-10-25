@@ -1,6 +1,6 @@
 # Hi there.!👋🏻
 * I'm ***Dev***, A **Full Stack** Developer.
-* Currently learning **Node** & **Express.Js**.
+* Currently learning **AWS** & **Backend Sysytem Design**.
 * Love to bring ideas to life in form of Web Apps!
 * Outside of Code, you'll find me watching anime or hitting the gym 💪🏻.
 * ☕️ Fun fact: I love both coffee and tea equally.
